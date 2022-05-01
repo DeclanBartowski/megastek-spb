@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Продукция", 
+		"#second", 
+		Array(), 
+		Array("data-id"=>"2"), 
+		"" 
+	),
+	Array(
+		"Наши работы", 
+		"#third", 
+		Array(), 
+		Array("data-id"=>"3"), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"#fourth", 
+		Array(), 
+		Array("data-id"=>"4"), 
+		"" 
+	),
+	Array(
+		"О производстве", 
+		"#six", 
+		Array(), 
+		Array("data-id"=>"6"), 
+		"" 
+	),
+	Array(
+		"Параметры продукции", 
+		"#eight", 
+		Array(), 
+		Array("data-id"=>"8"), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"#eleven", 
+		Array(), 
+		Array("data-id"=>"11"), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#twelve", 
+		Array(), 
+		Array("data-id"=>"12"), 
+		"" 
+	)
+);
+?>
